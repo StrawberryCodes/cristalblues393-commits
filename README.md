@@ -19,11 +19,11 @@
 
 ### ୭ ᵎᵎ 🧁 Sobre mim
 
-- 🎀 Aprendendo programação.
-- 📚 Estudando matemática e tecnologia.
-- 🦢 Construindo meus primeiros projetos.
-- 💻 Futura desenvolvedora.
-- ᶻ 𝗓 𐰁 Sempre aprendendo alguma coisa nova.
+ 🎀 Aprendendo programação.
+ 📚 Estudando matemática e tecnologia.
+ 🦢 Construindo meus primeiros projetos.
+ 💻 Futura desenvolvedora.
+🐇💬 ᶻ 𝗓 𐰁 Sempre aprendendo alguma coisa nova.
 
 <br clear="right"/>
 
